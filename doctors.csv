@@ -1,0 +1,51 @@
+doctor_id,doctor_name,department,experience_years,consultation_fee
+DOC001,Dr. Nisha Gupta,Cardiology,15,2000
+DOC002,Dr. Anita Nair,Dermatology,9,1200
+DOC003,Dr. Manish Kulkarni,Ophthalmology,20,800
+DOC004,Dr. Anil Nair,Neurology,21,1000
+DOC005,Dr. Priya Desai,General Medicine,2,1000
+DOC006,Dr. Swati Nair,Pediatrics,6,1500
+DOC007,Dr. Sneha Gupta,Oncology,5,1800
+DOC008,Dr. Shweta Kulkarni,Orthopedics,15,1200
+DOC009,Dr. Ritika Gupta,General Medicine,5,2000
+DOC010,Dr. Priya Joshi,General Medicine,6,500
+DOC011,Dr. Neha Desai,Neurology,15,700
+DOC012,Dr. Meenal Gupta,Dermatology,17,700
+DOC013,Dr. Neha Kulkarni,Oncology,24,1500
+DOC014,Dr. Neha Kulkarni,Neurology,3,700
+DOC015,Dr. Karan Kapoor,Neurology,5,1000
+DOC016,Dr. Shweta Joshi,ENT,5,700
+DOC017,Dr. Nisha Shah,Dermatology,6,1200
+DOC018,Dr. Priya Mehta,Cardiology,18,1500
+DOC019,Dr. Priya Gupta,Ophthalmology,20,1500
+DOC020,Dr. Rahul Nair,Cardiology,15,1500
+DOC021,Dr. Nisha Patil,General Medicine,12,800
+DOC022,Dr. Neha Patil,Gynecology,22,2000
+DOC023,Dr. Rahul Kapoor,Pediatrics,17,500
+DOC024,Dr. Karan Kapoor,Dermatology,10,1800
+DOC025,Dr. Neha Kapoor,Cardiology,3,1500
+DOC026,Dr. Meenal Mehta,Pediatrics,24,1200
+DOC027,Dr. Swati Kulkarni,ENT,5,700
+DOC028,Dr. Ritika Patil,ENT,24,2000
+DOC029,Dr. Vikram Joshi,Orthopedics,2,2000
+DOC030,Dr. Rohit Rao,Orthopedics,10,1000
+DOC031,Dr. Meenal Mehta,Pediatrics,5,1800
+DOC032,Dr. Deepak Shah,Orthopedics,6,800
+DOC033,Dr. Ritika Shah,Oncology,3,1800
+DOC034,Dr. Anita Rao,Orthopedics,12,800
+DOC035,Dr. Rohit Patil,Pediatrics,11,2000
+DOC036,Dr. Ritika Rao,Neurology,20,1800
+DOC037,Dr. Anita Patil,Oncology,5,1000
+DOC038,Dr. Deepak Desai,General Medicine,6,2000
+DOC039,Dr. Amit Mehta,Ophthalmology,4,500
+DOC040,Dr. Meenal Nair,Oncology,2,800
+DOC041,Dr. Sanjay Gupta,ENT,2,1800
+DOC042,Dr. Vikram Patil,Dermatology,3,2000
+DOC043,Dr. Vikram Gupta,Ophthalmology,20,500
+DOC044,Dr. Vikram Kulkarni,Dermatology,13,2000
+DOC045,Dr. Rahul Nair,Oncology,25,1000
+DOC046,Dr. Rahul Gupta,Neurology,22,500
+DOC047,Dr. Sneha Joshi,Neurology,16,1800
+DOC048,Dr. Amit Kapoor,General Medicine,17,700
+DOC049,Dr. Anil Desai,Neurology,24,1200
+DOC050,Dr. Deepak Nair,Pediatrics,24,800
